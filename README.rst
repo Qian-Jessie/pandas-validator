@@ -1,5 +1,5 @@
 ================
-pandas-validator
+Another pandas-validator, stop updating
 ================
 
 .. image:: https://travis-ci.org/c-bata/pandas-validator.svg?branch=master
